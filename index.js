@@ -12,7 +12,7 @@ function calMd5(file, size) {
 }
 
 module.exports = function (destPath, md5Size) {
-    if (!file) {
+    if (!destPath) {
         throw new PluginError('gulp-wind-assets-md5', 'Missing destPath option for gulp-wind-assets-md5');
     }
 
