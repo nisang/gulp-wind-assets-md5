@@ -1,6 +1,6 @@
 {
   "name": "gulp-wind-assets-md5",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "version the static files in html and css",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "gulp-wind-assets-md5"
+    "url": "https://github.com/ruowind/gulp-wind-assets-md5"
   },
   "keywords": [
     "js,html,css"
